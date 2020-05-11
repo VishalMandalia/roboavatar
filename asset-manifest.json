@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboavatar/static/css/main.f5e7481e.chunk.css",
+    "main.js": "/roboavatar/static/js/main.f9326fbc.chunk.js",
+    "main.js.map": "/roboavatar/static/js/main.f9326fbc.chunk.js.map",
+    "runtime-main.js": "/roboavatar/static/js/runtime-main.9f6a93a5.js",
+    "runtime-main.js.map": "/roboavatar/static/js/runtime-main.9f6a93a5.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/roboavatar/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js": "/roboavatar/static/js/2.a5747d58.chunk.js",
+    "static/js/2.a5747d58.chunk.js.map": "/roboavatar/static/js/2.a5747d58.chunk.js.map",
+    "index.html": "/roboavatar/index.html",
+    "precache-manifest.003631258dadefa3e59ba4e04193c56e.js": "/roboavatar/precache-manifest.003631258dadefa3e59ba4e04193c56e.js",
+    "service-worker.js": "/roboavatar/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/roboavatar/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.f5e7481e.chunk.css.map": "/roboavatar/static/css/main.f5e7481e.chunk.css.map",
+    "static/js/2.a5747d58.chunk.js.LICENSE.txt": "/roboavatar/static/js/2.a5747d58.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboavatar/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f6a93a5.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a5747d58.chunk.js",
+    "static/css/main.f5e7481e.chunk.css",
+    "static/js/main.f9326fbc.chunk.js"
+  ]
+}
